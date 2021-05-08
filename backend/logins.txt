@@ -1,0 +1,12 @@
+// Superuser login details
+
+Username: prolmodels
+Password: 2Simple##
+
+
+// Libraries needed to deploy on Heroku
+
+dj-database-url
+gunicorn
+psycopg2
+whitenoise
