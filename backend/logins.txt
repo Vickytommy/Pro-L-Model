@@ -1,7 +1,7 @@
 // Superuser login details
 
-Username: prolmodels
-Password: 2Simple##
+
+
 
 
 // Libraries needed to deploy on Heroku
